@@ -1,0 +1,8 @@
+
+                        <article class="mynotice">
+                                    <marquee>
+                                        <h3 class="mynoticetext"> Announcement </h3>
+                                    </marquee>
+                        </article> 
+                        <audio controls="" class="myaudio" name="media"><source src="http://104.216.111.162:8080/radio" type="application/ogg"></audio>
+        

@@ -1,0 +1,6 @@
+{
+    "url_prefix": "/homeworks/",
+    "link_title": ":month: 月 :day: 日作业",
+    "subjects"  : ["语文","数学","英语","物理","化学","生物","其他"],
+    "directory" : "/path/to/your/www/root"
+}
